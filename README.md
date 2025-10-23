@@ -64,20 +64,24 @@ The analysis addresses four key questions:
 - Overall conversion rate: **10.35%**
 - Cart-to-purchase conversion: **60.12%**
 - Cart abandonment rate: **39.88%** → Primary revenue leakage point.
+<img width="907" height="298" alt="my screenshots 2025-10-23 at 11 28 12 AM" src="https://github.com/user-attachments/assets/129fbb25-07c0-4f15-8a7e-505786f6ec6e" />
 
 ### Machine Learning Performance
 - Accuracy: **93%**
 - ROC-AUC: **0.866**
 - Top predictor: **Cart addition (coef = 2.68)** → users are **14.5× more likely** to purchase after adding to cart.
+<img width="635" height="390" alt="my screenshots 2025-10-23 at 11 34 39 AM" src="https://github.com/user-attachments/assets/64774498-cf9e-45bb-a30b-f8de7cc46511" />
 
 ### Cohort Insights
 - **Electronics** (esp. smartphones): 13.9% conversion.
 - **Unknown/uncategorized products**: 3.2% conversion.
 - Users visiting between **9 AM–12 PM** convert **18% better** than others.
+<img width="952" height="651" alt="my screenshots 2025-10-23 at 11 28 01 AM" src="https://github.com/user-attachments/assets/6b71da78-1c50-46c1-8e0b-788914e1aaa5" />
 
 ### High-Value User Identification
 - Identified **1,328 users** with ≥65% purchase probability who haven’t converted.
 - Represent **immediate retargeting potential**.
+<img width="927" height="306" alt="my screenshots 2025-10-23 at 11 24 57 AM" src="https://github.com/user-attachments/assets/83039417-07a9-4d89-b27d-17ddb7696039" />
 
 ---
 
