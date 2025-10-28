@@ -1,4 +1,4 @@
--- 1. DATA CLEANING & PREPARATION
+-- data cleaning and prep
 CREATE TABLE events_cleaned AS
 SELECT DISTINCT event_time,
     event_type,
